@@ -1,4 +1,4 @@
- // 23_15_02_036_Estructuras_Repetitivas_Ejercicio4.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+ //23_09_03_001_Clase en POO.cpp.
 //
 
 #include <iostream>

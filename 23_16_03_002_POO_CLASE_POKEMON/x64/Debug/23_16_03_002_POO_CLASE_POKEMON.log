@@ -1,0 +1,5 @@
+﻿  23_16_03_002_POO_CLASE_POKEMON.cpp
+C:\Users\angel\OneDrive\Documentos\PROGRAMACION POO\POO\23_16_03_002_POO_CLASE_POKEMON\23_16_03_002_POO_CLASE_POKEMON.cpp(87,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\PROGRAMACION POO\POO\23_16_03_002_POO_CLASE_POKEMON\23_16_03_002_POO_CLASE_POKEMON.cpp(96,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\PROGRAMACION POO\POO\23_16_03_002_POO_CLASE_POKEMON\23_16_03_002_POO_CLASE_POKEMON.cpp(97,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  23_16_03_002_POO_CLASE_POKEMON.vcxproj -> C:\Users\angel\OneDrive\Documentos\PROGRAMACION POO\POO\23_16_03_002_POO_CLASE_POKEMON\x64\Debug\23_16_03_002_POO_CLASE_POKEMON.exe

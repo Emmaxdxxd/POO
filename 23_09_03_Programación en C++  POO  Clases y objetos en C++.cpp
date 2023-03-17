@@ -1,4 +1,4 @@
- // 23_15_02_036_Estructuras_Repetitivas_Ejercicio4.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+ // 23_09_03_001_Programación en C++  POO  Clases y objetos en C++.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
 
 #include <iostream>
